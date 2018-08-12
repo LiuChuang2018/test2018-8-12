@@ -6,4 +6,4 @@ Git is free software.
 那咱先歇一歇, 看看git状态吧
 My stupid boss still prefers SVN.
 这是一个新的分支: dev
-我依旧是我: master
+我只能手动解决冲突了, 就这样吧.
